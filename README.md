@@ -1,4 +1,4 @@
-# Godot_PlatformerTemplate-v2-
+# Godot_PlatformerTemplate-v2
 Credit to [Saif Amer](https://battlerockgames.com](https://itch.io/profile/suppersaif)https://itch.io/profile/suppersaif)
 
 This is simply an upgraded version of the PlatformerTemplate found on [itch.io](https://suppersaif.itch.io/godot-platformer-template)
